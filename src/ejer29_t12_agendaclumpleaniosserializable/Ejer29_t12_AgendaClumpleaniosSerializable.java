@@ -135,14 +135,6 @@ public class Ejer29_t12_AgendaClumpleaniosSerializable {
 
         }
 
-//        String linea = br.readLine();
-//
-//        while (linea != null) {
-//            System.out.println(linea);
-//
-//            linea = br.readLine();
-//
-//        }
     }
 
     public static String pedirTexto(String texto) {
